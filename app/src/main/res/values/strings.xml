@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StudyForge AI</string>
+    <string name="tagline_en">AI Notes-to-Question Generator for Indian Boards</string>
+    <string name="tagline_hi">भारतीय शिक्षा बोर्डों के लिए एआई नोट्स-से-प्रश्न जनरेटर</string>
+    <string name="nav_home">Dashboard</string>
+    <string name="nav_upload">Upload Notes</string>
+    <string name="nav_generate">Generate</string>
+    <string name="nav_tests">My Tests</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="guest_mode_badge">Guest Mode Active</string>
+    <string name="privacy_notice_title">Privacy &amp; Academic Integrity Notice</string>
+    <string name="disclaimer_exam_en">Questions are AI-generated strictly from your uploaded notes for practice &amp; self-assessment. They are not guaranteed exam questions or official previous-year board papers.</string>
+    <string name="disclaimer_exam_hi">ये प्रश्न केवल आपके अपलोड किए गए नोट्स से अभ्यास के लिए एआई द्वारा बनाए गए हैं। ये गारंटीड बोर्ड परीक्षा प्रश्न या आधिकारिक पिछले वर्ष के प्रश्नपत्र नहीं हैं।</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "StudyForge AI",
+  "description": "AI-powered Notes-to-Question Generator for Indian education boards (CBSE, ICSE, JAC, Bihar, UP & State Boards) with Hindi, English & Bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
